@@ -56,7 +56,7 @@ Formula di marca: **FavoLab · le favole di Mumi**. Il libro si chiama "Il libro
 - A favore: "Favo" richiama subito "favola"; è breve, unico, già sul logo e nel codice. "Favo" è anche l'alveare: un appiglio caldo (miele, Api Gemelle) già coerente con la palette.
 - Contro: "Lab" evoca laboratorio, esperimento, tecnologia. Alle 21 il genitore cerca una coperta, e "Lab" rischia di suonare come "favole fatte in provetta", proprio il dubbio sull'AI che vogliamo sciogliere.
 - **Decisione:** si tiene FavoLab come marchio ombrello (domini, Stripe, legale, nessun costo di cambio) e si affida il calore a Mumi in prima linea: titolo della home "Le favole di Mumi", FavoLab nel logo e nella firma. In beta si testa un headline con "FavoLab" contro uno con "Mumi"; se Mumi vince nettamente, il dominio resta e cambia solo la gerarchia visiva.
-- **Prima di tutto:** controllo su TMview di "FavoLab" e soprattutto di "Mumi" (rischio di confusione con i Moomin, in italiano "Mumin"). Se "Mumi" non è libero, il nome del personaggio si cambia **prima** di pagare l'illustratore.
+- **Nome del personaggio:** "Mumi" confermato dal fondatore l'8 ottobre 2026. Nel disegno si evita ogni somiglianza con i Moomin (in italiano "Mumin").
 
 ## 4. Tono di voce
 
@@ -114,7 +114,7 @@ Due assi: **storia generica ↔ su misura per la giornata del bambino**; **scher
 
 **Brief per l'illustratore** (si commissiona solo dopo il GO del 7 novembre o con ≥15 preordini del libro; budget €1.500-3.000; **cessione scritta dei diritti economici** su personaggi e scene, uso anche commerciale e per merchandising).
 
-*Mumi.* Cucciola di volpe rossa, circa 5 anni "umani" (il prompt usa il femminile: "Mumi si sente esclusa"; decisione da confermare e poi fissare ovunque). Antropomorfa leggera: cammina su due zampe, nessun vestito tranne la **sciarpa verde salvia**, suo segno distintivo. Testa grande (1:2,5 sul corpo), occhi scuri grandi e vivi, muso corto, pancia e punta della coda crema. Curiosa, sensibile, a volte impulsiva; sbaglia e ci riprova. Vive in una tana sotto le radici di una quercia, con una lampada calda e un lettino di foglie.
+*Mumi.* Cucciola di volpe rossa, circa 5 anni "umani" (femmina, confermato: va fissato ovunque, prompt e testi compresi). Antropomorfa leggera: cammina su due zampe, nessun vestito tranne la **sciarpa verde salvia**, suo segno distintivo. Testa grande (1:2,5 sul corpo), occhi scuri grandi e vivi, muso corto, pancia e punta della coda crema. Curiosa, sensibile, a volte impulsiva; sbaglia e ci riprova. Vive in una tana sotto le radici di una quercia, con una lampada calda e un lettino di foglie.
 
 *Il cast* (qualità dal prompt attuale, unificate nel cast unico del passo 8):
 
